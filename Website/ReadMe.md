@@ -4,4 +4,4 @@
 * [MDN](//developer.mozilla.org)
 * [TinyPNG](//tingpng.com)
 * [GitHub](//github.com)
-* [YCJ](www.yangchenjie.com)
+* [YCJ](http://www.yangchenjie.com)
