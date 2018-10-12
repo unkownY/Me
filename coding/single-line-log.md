@@ -6,7 +6,9 @@
 
 ## install
 
-```npm install single-line-log [-d|-g]```
+```
+npm install single-line-log [-d|-g]
+```
 
 ## how to use
 
