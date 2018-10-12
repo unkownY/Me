@@ -6,7 +6,9 @@
 
 ## install
 
+```
 npm install log4js [-d|-g]
+```
 
 ## how to use
 
