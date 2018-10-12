@@ -12,6 +12,5 @@
 
 ```
 let oneLine = require('single-line-log');
-
 oneline('your content');
 ```
