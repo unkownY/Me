@@ -7,7 +7,7 @@
 ## install
 
 ```
-npm install node-cron [-d|-g]
+npm install node-cron 
 ```
 
 ## how to use

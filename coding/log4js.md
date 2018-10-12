@@ -7,7 +7,7 @@
 ## install
 
 ```
-npm install log4js [-d|-g]
+npm install log4js 
 ```
 
 ## how to use
