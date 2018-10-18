@@ -14,5 +14,9 @@
 
 > 单行日志输出: 可用于任务执行进度
 
+## [pinyin](pinyin.md)
+
+> 汉字转拼音
+
 
 *wait for more*
