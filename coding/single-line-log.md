@@ -13,6 +13,6 @@ npm install single-line-log
 ## how to use
 
 ```
-let oneLine = require('single-line-log');
+const oneLine = require('single-line-log');
 oneline('your content');
 ```
