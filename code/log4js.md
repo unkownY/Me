@@ -15,7 +15,7 @@ npm install log4js
 ### Level 1:
 
 **in logger.js:**
-```
+```js
 const log4js = require('log4js');
 
 //log4js 配置
@@ -67,3 +67,5 @@ const {logger,format} = require('log4js');
 app.use(log4js.connectLogger(logger,{format}));
 
 ```
+
+***~[BACK](README.md)~***

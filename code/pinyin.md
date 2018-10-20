@@ -12,7 +12,7 @@ npm install pinyin
 
 ## how to use
 
-```
+```js
 const pinyin = require('pinyin');
 let options = {
     heteronym : true, // 启用多音字
@@ -32,3 +32,6 @@ let result = pinyin('内容',{options});
 *
 */
 ```
+
+
+***~[BACK](README.md)~***

@@ -67,7 +67,7 @@ day of week|0-7 (or names, 0 or 7 are sunday)
 
 * 初始化
 
-```
+```js
 var task = cron.schedule('* * * * *', () =>  {
   console.log('will execute every minute until stopped');
 },{scheduled:false});
@@ -75,19 +75,20 @@ var task = cron.schedule('* * * * *', () =>  {
 
 * Start
 
-```
+```js
 task.start();
 ```
 
 * Stop
 
-```
+```js
 task.stop();
 ```
 
 * Destory
 
-```
+```js
 task.destory();
 ```
 
+***~[BACK](README.md)~***
