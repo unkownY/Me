@@ -6,4 +6,4 @@
 * [GitHub](https://github.com) => 全球最大同性交友社区
 * [YCJ](https://www.yangchenjie.com) => 这个什么都不是
 
-***~[BACK](../README.md)~***
+***~[BACK](../ReadMe.md)~***

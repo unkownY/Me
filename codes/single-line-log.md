@@ -17,4 +17,4 @@ const oneLine = require('single-line-log');
 oneline('your content');
 ```
 
-***~[BACK](README.md)~***
+***~[BACK](ReadMe.md)~***

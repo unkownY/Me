@@ -34,4 +34,4 @@ let result = pinyin('内容',{options});
 ```
 
 
-***~[BACK](README.md)~***
+***~[BACK](ReadMe.md)~***
