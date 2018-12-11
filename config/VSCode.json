@@ -1,0 +1,16 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai",
+    "files.autoSave": "onFocusChange",
+    "editor.renderWhitespace": "boundary",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "editor.wordWrap": "on",
+    "editor.mouseWheelZoom": true,
+    "editor.tabCompletion": "on",
+    "emmet.triggerExpansionOnTab": true,
+    "html.format.endWithNewline": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "npm.enableScriptExplorer": true
+}
