@@ -12,5 +12,6 @@
     "html.format.endWithNewline": true,
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
-    "npm.enableScriptExplorer": true
+    "npm.enableScriptExplorer": true,
+    "editor.letterSpacing": 1
 }
