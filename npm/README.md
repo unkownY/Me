@@ -18,6 +18,14 @@
 
 > 汉字转拼音
 
+## [ioredis](ioredis.md)
+
+> 使用 ioredis 操作 redis
+
+## [mongoose](mongoose.md)
+
+> 使用 mongoose 操作 mongodb
+
 
 *wait for more*
 
