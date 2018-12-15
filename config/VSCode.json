@@ -13,5 +13,6 @@
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
     "npm.enableScriptExplorer": true,
-    "editor.letterSpacing": 1
+    "editor.letterSpacing": 1,
+    "editor.tabSize": 2
 }
