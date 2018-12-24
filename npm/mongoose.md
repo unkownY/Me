@@ -24,7 +24,7 @@ let _Name=new Schema({
     expiredAt:Date,
     gender:Number,
     used:{type:Array,default:[]}
-},{timestamps,true}); 
+},{timestamps:true}); 
 /* 
   添加 {timestamps,true} 后
   mongo自行添加 createdAt,updatedAt
