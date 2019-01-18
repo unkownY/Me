@@ -14,7 +14,7 @@ npm install single-line-log
 
 ```js
 const oneLine = require('single-line-log');
-oneline('your content');
+oneLine('your content');
 ```
 
 ***~[BACK](ReadMe.md)~***
