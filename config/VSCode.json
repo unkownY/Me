@@ -3,8 +3,8 @@
     "workbench.colorTheme": "Monokai",
     "files.autoSave": "onFocusChange",
     "editor.renderWhitespace": "boundary",
-    "editor.fontSize": 13,
-    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Comic Sans MS,Monaco, 'Courier New', monospace",
     "editor.wordWrap": "on",
     "editor.mouseWheelZoom": true,
     "editor.tabCompletion": "on",
@@ -14,5 +14,6 @@
     "html.format.indentInnerHtml": true,
     "npm.enableScriptExplorer": true,
     "editor.letterSpacing": 1,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "terminal.integrated.fontFamily": "monospace"
 }
