@@ -1,3 +1,9 @@
+[BACK](../README.md)
+
+---
+# 文件下载
+
+```js
 const superagent = require('superagent');
 const fs = require('fs');
 const path = require('path');
@@ -12,3 +18,7 @@ let destination = path.join(__dirname,fileName);
 const stream = fs.createWriteStream(destination);
 // 请求并存储图片
 superagent.get(API).pipe(stream);
+```
+
+---
+[BACK](../README.md)

@@ -1,6 +1,8 @@
 > What I Like .
 
-* [Font](fonts/ReadMe.md)
-* [Code](codes/ReadMe.md)
-* [Logo](logos/ReadMe.md)
-* [Website](websites/ReadMe.md)
+* [Code](codes/README.md)
+* [Font](fonts/README.md)
+* [Logo](logos/README.md)
+* [Snippet](snippets/README.md)
+* [Wallpaper](wallpapers/README.md)
+* [Website](websites/README.md)

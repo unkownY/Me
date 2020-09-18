@@ -1,8 +1,7 @@
-# 汉字转拼音
+[BACK](README.md)
 
-## name
-
-[pinyin](https://github.com/hotoo/pinyin)
+---
+# [pinyin](https://github.com/hotoo/pinyin)
 
 ## install 
 
@@ -13,7 +12,7 @@ npm install pinyin
 ## how to use
 
 ```js
-const pinyin = require('pinyin');
+const pinyin = require('codes/pinyin');
 let options = {
     heteronym : true, // 启用多音字
     style : pinyin.STYLE_NORMAL, // 普通拼音,不带声调
@@ -33,5 +32,5 @@ let result = pinyin('内容',{options});
 */
 ```
 
-
-***~[BACK](ReadMe.md)~***
+---
+[BACK](README.md)

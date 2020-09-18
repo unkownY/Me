@@ -1,8 +1,7 @@
-# 自定义日志
+[BACK](./README.md)
 
-## name 
-
-[log4js](https://github.com/log4js-node/log4js-node)
+---
+# [log4js](https://github.com/log4js-node/log4js-node)
 
 ## install
 
@@ -12,11 +11,9 @@ npm install log4js
 
 ## how to use
 
-### Level 1:
-
 **in logger.js:**
 ```js
-const log4js = require('log4js');
+const log4js = require('codes/log4js');
 
 //log4js 配置
 log4js.configure({
@@ -60,12 +57,13 @@ module.exports = {format,logger};
 **in app.js:**
 
 ```js
-const log4js = require('log4js');
-const {logger,format} = require('log4js');
+const log4js = require('codes/log4js');
+const {logger,format} = require('codes/log4js');
 
 // format: 日志的内容格式
 app.use(log4js.connectLogger(logger,{format}));
 
 ```
 
-***~[BACK](ReadMe.md)~***
+---
+[BACK](./README.md)

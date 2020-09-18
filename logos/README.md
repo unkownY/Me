@@ -1,7 +1,13 @@
-> Logo
+
+[BACK](../README.md)
+
+---
+
+# Logo
 
 ## logo-y
-<img src="logo-y/y-apng.png" style="width:50%;height:50%">
+<img src="./logo-y/y-apng.png" style="width:50%;height:50%" alt="LOGO-Y" />
 
 
-***~[BACK](../ReadMe.md)~***
+---
+[BACK](../README.md)

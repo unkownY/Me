@@ -1,8 +1,7 @@
-# mongoose 使用mongodb进行数据存储
+[BACK](./README.md)
 
-## name
-
-[mongoose](https://github.com/Automattic/mongoose)
+---
+# [mongoose](https://github.com/Automattic/mongoose)
 
 ## install
 
@@ -16,7 +15,7 @@ npm install mongoose
 **创建 Schema**
 
 ```js
-const mongoose = require('mongoose');
+const mongoose = require('codes/mongoose');
 const Schema = mongoose.Schema;
 
 let _Name=new Schema({
@@ -37,7 +36,7 @@ module.exports = _Name;
 
 ```js
 
-const mongoose = require('mongoose');
+const mongoose = require('codes/mongoose');
 
 let options = {
     user: 'username',
@@ -57,4 +56,5 @@ DB.Name= mongoose.model('Name',require('./_Name'));
 module.exports=DB;
 ```
 
-***~[BACK](ReadMe.md)~***
+---
+[BACK](./README.md)

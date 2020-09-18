@@ -1,3 +1,7 @@
+[BACK](./README.md)
+
+---
+
 # Redis 
 
 ## install 
@@ -8,7 +12,10 @@
   * sudo yum -y install redis
   * sudo systemctl start redis
   * vi /etc/redis.conf
-      * #bind 127.0.0.1
-      * #requirepass foobared
+      * bind 127.0.0.1
+      * requirepass foobared
   * sudo systemctl restart redis   
   * auth password
+
+---
+[BACK](./README.md)

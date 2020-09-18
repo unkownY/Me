@@ -1,8 +1,7 @@
-# 定时任务
+[BACK](README.md)
 
-## name 
-
-[node-cron](https://github.com/node-cron/node-cron)
+---
+# [node-cron](https://github.com/node-cron/node-cron)
 
 ## install
 
@@ -13,12 +12,12 @@ npm install node-cron
 ## how to use
 
 ```js
-const cron = require('node-cron');
+const cron = require('codes/node-cron');
 
 let range = '* 0-23 * * *';
 
 cron.schedule(range, async ()=>{
-    function();
+    // your func
 },{
     scheduled: true, // 是否自动启动
     timezone: "Asia/Shanghai"
@@ -91,4 +90,5 @@ task.stop();
 task.destory();
 ```
 
-***~[BACK](ReadMe.md)~***
+---
+[BACK](README.md)

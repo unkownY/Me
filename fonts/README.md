@@ -1,4 +1,8 @@
->FONT
+[BACK](../README.md)
+
+---
+
+# FONT
 
 * [Google Font](https://fonts.google.com/)
 * [Open Sans](https://www.opensans.com/)
@@ -6,4 +10,5 @@
 * [Roboto](https://fonts.google.com/specimen/Roboto)
 
 
-***~[BACK](../ReadMe.md)~***
+---
+[BACK](../README.md)
