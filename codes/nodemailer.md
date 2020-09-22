@@ -6,7 +6,7 @@
 
 ## 安装
 
-```shell
+```shell script
 npm install nodemailer
 ```
 

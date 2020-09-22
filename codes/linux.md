@@ -7,7 +7,7 @@
 
 ### scp
 > 进行文件安全复制
-```shell
+```shell script
   scp [可选参数] file_source file_target 
 
   -1： 强制scp命令使用协议ssh1

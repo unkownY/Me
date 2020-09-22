@@ -127,7 +127,7 @@
     let tomorrow0 = () => 57600000-Date.now()%86400000;
 ```
 
-1. 今天 剩余时间 (ms)
+* 今天 剩余时间 (ms)
 ```js
     /**
     * @params {String} rtype 获取剩余时间的格式(ms:毫秒,s:秒)

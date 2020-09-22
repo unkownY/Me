@@ -5,7 +5,7 @@
 
 ## install 
 
-```
+```shell script
 npm install pinyin
 ```
 

@@ -1,7 +1,7 @@
 [BACK](README.md)
 
 ---
-# Homebrew
+# [Homebrew](https://docs.brew.sh/)
 
 ## 安装
 
@@ -13,29 +13,35 @@
 
 * 使用 **brew** 安装软件
 
-    ```shell
+    ```shell script
+  
     brew install wget
+  
     ```
 
 * 创建自己的 **Homebrew** 包
 
-    ```shell
+    ```shell script
+  
     brew create https://foo.com/bar-1.0.tgz
+
     ```
 
 * 使用 **brew cask** 安装 macOS 的软件,字体及插件
 
-    ```shell
+    ```shell script
+  
     brew cask install firefox
+
     ```
 
 * 创建一个 **cask**
 
-    ```shell
+    ```shell script
+  
     brew cask create foo
-    ```
 
- [更多文档](https://docs.brew.sh/)
+    ```
 
 ---
 [BACK](README.md)

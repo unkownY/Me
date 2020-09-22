@@ -15,7 +15,7 @@
 ## 使用
 
 1. 临时使用
-    ```shell
+    ```shell script
         pip install -i https://pypi.mirrors.ustc.edu.cn/simple/ pyspider
     ```
 2. 更新 `pip.ini` 文件

@@ -22,21 +22,21 @@
 ## 安装/启动
 
 1. [下载](https://kafka.apache.org/downloads.html) (不要下载带`src`的源文件)
-```shell
-    tar -xzf kafka_2.12-2.3.0.tgz
-    cd kafka_2.12-2.3.0
+```shell script
+tar -xzf kafka_2.12-2.3.0.tgz
+cd kafka_2.12-2.3.0
 ```
 
 1. 启动 zookeeper
 
-```shell
-    bin/zookeeper-server-start.sh config/zookeeper.properties
+```shell script
+bin/zookeeper-server-start.sh config/zookeeper.properties
 ```
 
 1. 启动 kafka
 
-```shell
-    bin/kafka-server-start.sh config/server.properties &
+```shell script
+bin/kafka-server-start.sh config/server.properties &
 ```
 
 ## node
@@ -44,8 +44,8 @@
 *使用 [kafka-node](https://github.com/SOHU-Co/kafka-node) 进行连接*
 
 * 安装
-    ```node
-        npm install kafka-node
+    ```shell script
+    npm install kafka-node
     ```
 * 使用
     `kafka-node`: [使用方法](kafka-node.md)

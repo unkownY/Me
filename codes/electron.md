@@ -29,6 +29,7 @@
 
 ## 创建 electron-vue 项目
 ```shell script
+
     # 安装 vue-cli 和 脚手架样板代码
     npm install -g vue-cli
     vue init simulatedgreg/electron-vue my-project

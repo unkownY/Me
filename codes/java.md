@@ -7,16 +7,16 @@
 ### 安装
 
 * 解压jdk文件
-    ```shell
+    ```shell script
         tar -zxvf jdk_****.tar.gz -C target_path
     ```
 
 * 编辑文件
-    ```shell
+    ```shell script
         vim /etc/profile
     ```
 * 添加
-    ```shell
+    ```shell script
         ## JAVA_HOME
         export JAVA_HOME=target_path
         ## PATH
@@ -24,7 +24,7 @@
     ```
 
 * 使更改生效
-    ```shell
+    ```shell script
         source /etc/profile
     ```
 
