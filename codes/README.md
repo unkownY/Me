@@ -19,6 +19,7 @@
 * [mongoose](mongoose.md)
 * [multer](multer.md)
 * [node-cron](node-cron.md)
+* [node](node.md)
 * [nodemailer](nodemailer.md)
 * [oh-my-zsh](oh-my-zsh.md)
 * [pinyin](pinyin.md)

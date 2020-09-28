@@ -140,5 +140,27 @@
     };
 ```
 
+* 图片转base64
+```js
+    /**
+    * 图片转base64
+    * @param {String} image 图片地址
+    */
+    inner.img2base64 = async (image) => {
+        try{
+
+            let img = await superagent.get(image).then(e=>e.body);
+            let buffer = Buffer.from(img);
+            let data = buffer.toString('base64');
+
+            return data;
+        }catch(e){
+            return {'success':false,'msg':`图片转base64失败-${e.message}`,'code': 500,'data': {}};
+        }
+    };
+```
+
+
+
 ---
 [BACK](README.md)
