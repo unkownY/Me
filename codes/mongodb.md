@@ -144,6 +144,8 @@ $or|例:$or:[{l:1},{k:1}]
     * logs: `/var/log/mongodb/mongod.log`
     * config: `/etc/mongod.conf`
     * bin: `/usr/bin/mongod`
+1. startup
+    * `sudo systemctl enable mongod`
     
 ---
 [BACK](./README.md)
