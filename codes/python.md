@@ -18,12 +18,19 @@
     ```shell script
         pip install -i https://pypi.mirrors.ustc.edu.cn/simple/ pyspider
     ```
-2. 更新 `pip.ini` 文件
+2. 更新 `pip.ini`/ `pip.conf` 文件
     ```ini
         [global]
         index-url = https://pypi.tuna.tsinghua.edu.cn/simple/
         [install]
         trusted-host=pypi.tuna.tsinghua.edu.cn
+    ```
+
+    ```conf
+        [global]
+        timeout = 60
+        index-url = http://pypi.douban.com/simple
+        trusted-host = pypi.douban.com
     ```
    
 ---

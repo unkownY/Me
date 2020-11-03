@@ -31,6 +31,7 @@
 * [socket.io](socket.io.md)
 * [ssr](ssr.md)
 * [vim](vim.md)
+* [apt](apt.md)
 
 
 ---
