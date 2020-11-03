@@ -13,6 +13,12 @@ curl -sL https://deb.nodesource.com/setup_12.x | bash -
 apt-get install -y nodejs
 ```
 
+## 更换node源
+
+```shell
+npm config set registry https://registry.npm.taobao.org
+```
+
 ## 代码段
 
 * 快速生成数组
