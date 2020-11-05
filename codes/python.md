@@ -1,6 +1,7 @@
 [BACK](README.md)
 
 ---
+
 ## 国内镜像地址
     
     名称 | 源地址
@@ -33,5 +34,22 @@
         trusted-host = pypi.douban.com
     ```
    
+## 更新pip
+
+```sh
+pip install -i https://pypi.doubanio.com/simple/ --upgrade setuptools
+pip install -i https://pypi.doubanio.com/simple/ --upgrade pip
+```
+
+## virtualenv
+
+### 安装
+```sh
+pip3 install virtualenv
+```
+
+### 使用
+
+
 ---
 [BACK](README.md)
