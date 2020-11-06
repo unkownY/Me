@@ -15,5 +15,21 @@
    * wget 
        `$ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"`
        
+
+# setting
+
+1. set THEME
+    ```sh
+
+    vim ~/.zshrc
+
+    # find  ZSH_THEME
+
+    ZSH_THEME="edvardm"
+
+    # save file
+    ```
+2. 
+
 ---       
 [BACK](README.md)
