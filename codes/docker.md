@@ -28,10 +28,10 @@ ll
 # 查看是否存在 daemon.json
 vim daemon.json
 # 将daemon.json 完善成正确的json格式
+{}
 # 启动
 
 ```
-
 
 
 ---
