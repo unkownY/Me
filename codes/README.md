@@ -12,6 +12,7 @@
 * [java](./java.md)
 * [kafka](./kafka.md)
 * [kafka-node](./kafka-node.md)
+* [kafkajs](./kafkajs.md)
 * [linux](./linux.md)
 * [log4js](log4js.md)
 * [mac](./mac.md)
